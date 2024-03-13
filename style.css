@@ -1,0 +1,183 @@
+body {
+    background-color: lightgrey;
+    display: block;
+}
+.first-post, .second-post, .third-post, .fourth-post {
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    margin: 50px auto; 
+    
+}
+.website-title {
+    background-color: white;
+    height: 60px;
+    display: flex;
+}
+.website-title-text h1{
+    width: 750px;
+    text-align: center;
+    margin-top: 10px;
+}
+.first-post-header, .second-post-header, .third-post-header, .fourth-post-header {
+    background-color: white;
+    
+}
+.first-post-header  {
+    border-bottom: lightgrey solid 1px;
+    height: 70px;
+    display: flex;
+}
+.first-post-title {
+    height: 70px;
+    width: 200px;
+    margin-left: 10px;
+}
+.first-post-date {
+    height: 70px;
+    width: 100px;
+    margin-left: 250px;
+}
+.first-post-date p {
+    color:grey;
+    margin-left: 25px;
+    font-size: 20px;
+    margin-top: 22px;
+}
+.first-post-image img {
+    height: 300px;
+    width: 500px;
+    margin-top: 5px;
+}
+.first-post-footer {
+    border-top: lightgrey solid 1px;
+}
+.first-post-footer p {
+    font-size: 25px;
+    text-align: left;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.second-post-header {
+    border-bottom: lightgrey solid 1px;
+    height: 70px;
+    display: flex;
+}
+.second-post-title {
+    height: 70px;
+    width: 200px;
+    margin-left: 10px;
+}
+.second-post-date {
+    height: 70px;
+    width: 100px;
+    margin-left: 200px;
+}
+.second-post-footer {
+    border-top: lightgrey solid 1px;
+}
+.second-post-date p {
+    color:grey;
+    margin-left: 35px;
+    font-size: 20px;
+    margin-top: 22px;
+}
+.second-post-title h2 {
+    margin-top: 22px;
+    width: 200px;
+}
+.second-post-image img {
+   height: 305px; 
+   width: 500px;
+   margin-top: 5px;
+}
+.second-post-footer {
+    height: 100px;
+    margin-top: 5px;
+}
+.second-post-footer p {
+    font-size: 28px;
+    margin-top: 25px;
+    margin-left: 15px;
+}
+.third-post-header {
+    border-bottom: lightgrey solid 1px;
+    height: 70px;
+    display: flex;
+}
+.third-post-title {
+    height: 70px;
+    width: 200px;
+    margin-left: 10px;
+}
+.third-post-date {
+    height: 70px;
+    width: 100px;
+    margin-left: 185px;
+}
+.third-post-title h2 {
+    margin-top: 20px;
+    width: 285px;
+}
+.third-post-footer {
+    border-top: lightgrey solid 1px;
+}
+.third-post-date p {
+    color:grey;
+    margin-left: 45px;
+    font-size: 20px;
+    margin-top: 22px;
+}
+.third-post-image img {
+    height: 325px;
+    width: 500px;
+    margin-top: 5px;
+}
+.third-post-footer {
+    border-top: lightgrey solid 1px;
+}
+.third-post-footer p {
+    margin-left: 10px;
+    font-size: 25px;
+    margin-top: 20px;
+}
+.fourth-post-header {
+    border-bottom: lightgrey solid 1px;
+    height: 70px;
+    display: flex;
+}
+.fourth-post-title {
+    height: 70px;
+    width: 200px;
+    margin-left: 10px;
+}
+.fourth-post-date {
+    height: 70px;
+    width: 100px;
+    margin-left: 185px;
+}
+.fourth-post-title h2 {
+    margin-top: 25px;
+    width: 285px;
+}
+.fourth-post-date p {
+    color:grey;
+    margin-left: 45px;
+    font-size: 20px;
+    margin-top: 27px;
+}
+.fourth-post-image img {
+    width: 500px;
+    height: 250px;
+    margin-top: 50px;
+}
+.fourth-post-footer {
+    border-top: lightgrey solid 1px;
+    margin-top: 40px;
+}
+.fourth-post-footer p{
+    height: 100px;
+    margin-top: 15px;
+    font-size: 25px;
+    margin-left: 15px;
+}
